@@ -1,2 +1,2 @@
-# my-express-app
-A simple express API for a tutorial
+# my-react-app
+A simple react app for a tutorial
